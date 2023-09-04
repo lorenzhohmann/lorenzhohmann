@@ -13,7 +13,6 @@ In my spare time and during my many years of professional training, I have carri
   - Development and support of a fullstack application with Node.js and Vue.js
 - Some open-source projects:
   - **WordPress Workflow Template (🔗 [Repository](https://github.com/lorenzhohmann/wp-workflow-template))**
-    - Keywords: #git, #workflow, #devops, #ci #cd #dev #environment
   - **🚢 Fleetstorm (🔗 [Repository](https://github.com/lorenzhohmann/fleetstorm))** 
   - **👨‍💻 Webserver Monitoring & Alerting Dashboard**
   - **❓ Live Survey Tool**
