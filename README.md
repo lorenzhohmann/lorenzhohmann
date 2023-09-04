@@ -13,7 +13,7 @@ In my spare time and during my many years of professional training, I have carri
   - Development and support of a fullstack application with Node.js and Vue.js
 - Some open-source projects:
   - **WordPress Workflow Template (🔗 [Repository](https://github.com/lorenzhohmann/wp-workflow-template))**
-  - **🚢 Fleetstorm (🔗 [Repository](https://github.com/lorenzhohmann/fleetstorm))** 
+  - **🚢 Fleetstorm (🔗 [Live Demo](https://fleetstorm.lorenzhohmann.de/) & [Repository](https://github.com/lorenzhohmann/fleetstorm))** 
   - **👨‍💻 Webserver Monitoring & Alerting Dashboard (🔗 [Repository](https://github.com/lorenzhohmann/webserver-dashboard))** 
   - **❓ Live Survey Tool (🔗 [Repository](https://github.com/lorenzhohmann/folley))**
   - **⌛ Working Time Logging Tool (🔗 [Repository](https://github.com/lorenzhohmann/timecollector))**
@@ -25,7 +25,7 @@ In my spare time and during my many years of professional training, I have carri
 - **☁️ Cloud Sync Client (🔗 [Repository](https://github.com/Thunderklaud/thunder-client))**
   - Python Desktop application with Qt for Python
   - Part of a Study project focused on Project Management
-- **🛠️ Project Management Tool (🔗 [Trello Clone](https://trello.jonathanschlitt.de/login))**
+- **🛠️ Project Management Tool (🔗 [Live Demo](https://trello.jonathanschlitt.de/login))**
   - Fullstack Webapplication with React and Node.js
   - Part of a Study project focused on MySQL
 - **🚢 'Sinking Ships' GUI or Console game (🔗 [Sinking Ships](https://github.com/lorenzhohmann/sinking-ships-mvc))**
