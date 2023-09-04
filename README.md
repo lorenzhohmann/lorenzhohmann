@@ -14,9 +14,9 @@ In my spare time and during my many years of professional training, I have carri
 - Some open-source projects:
   - **WordPress Workflow Template (🔗 [Repository](https://github.com/lorenzhohmann/wp-workflow-template))**
   - **🚢 Fleetstorm (🔗 [Repository](https://github.com/lorenzhohmann/fleetstorm))** 
-  - **👨‍💻 Webserver Monitoring & Alerting Dashboard**
-  - **❓ Live Survey Tool**
-  - **⌛ Working Time Logging Tool**
+  - **👨‍💻 Webserver Monitoring & Alerting Dashboard (🔗 [Repository](https://github.com/lorenzhohmann/webserver-dashboard))** 
+  - **❓ Live Survey Tool (🔗 [Repository](https://github.com/lorenzhohmann/folley))**
+  - **⌛ Working Time Logging Tool (🔗 [Repository](https://github.com/lorenzhohmann/timecollector))**
   - **Rest API Boilerplate (🔗 [Repository](https://github.com/lorenzhohmann/rest-boilerplate))**
 
 ---
@@ -32,6 +32,7 @@ In my spare time and during my many years of professional training, I have carri
   - Part of a Stufy project focused on MVC
 - *and some more private projects as well...* 😉
   - a Java Adventure game with GUI
+  - some websites
 
 ---
 
