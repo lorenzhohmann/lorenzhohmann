@@ -29,7 +29,7 @@ In my spare time and during my many years of professional training, I have carri
 - **🛠️ Project Management Tool (🔗 [Trello Clone](https://trello.jonathanschlitt.de/login))**
   - Fullstack Webapplication with React and Node.js
   - Part of a Study project focused on MySQL
-- **🚢 'Schiffe versenken' Console to GUI application**
+- **🚢 'Sinking Ships' GUI or Console game (🔗 [Sinking Ships](https://github.com/lorenzhohmann/sinking-ships-mvc))**
   - Part of a Stufy project focused on MVC
 - *and some more private projects as well...* 😉
   - a Java Adventure game with GUI
