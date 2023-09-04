@@ -51,7 +51,6 @@ In my spare time and during my many years of professional training, I have carri
 <code title="Git"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code title="WordPress"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
 <code title="Plesk"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Logo_Plesk.svg/2048px-Logo_Plesk.svg.png"></code>
-<code title="VMware"><img height="40" src="https://w7.pngwing.com/pngs/365/66/png-transparent-vmware-esxi-vmware-vsphere-vmdk-virtual-machine-others-text-rectangle-logo.png"></code>
 
 ---
 
