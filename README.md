@@ -32,7 +32,6 @@ In my spare time and during my many years of professional training, I have carri
   - Part of a Stufy project focused on MVC
 - *and some more private projects as well...* 😉
   - a Java Adventure game with GUI
-  - some websites
 
 ---
 
@@ -55,17 +54,17 @@ In my spare time and during my many years of professional training, I have carri
 
 ---
 
-### 💪 My Skills
+### My Skills
 - DevOps (CI/CD)
 - GitOps
 - Cloud Development (especially in AWS)
-- Iac (Terraform, CloudFormation, AWS CDK)
+- IaC (Terraform, CloudFormation, AWS CDK)
 - Fullstack Development
 - Webserver Hosting & Administration (Linux and Windows)
 
 ---
 
-### 🎓 My subject-related education
+### My subject-related education
 - Bachelor in Applied Computer Science
 - Technical College for Computer Science
 - Vocational training as a computer scientist
