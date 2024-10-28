@@ -25,7 +25,7 @@ In my spare time and during my many years of professional training, I have carri
 - **Cloud Sync Client (🔗 [Repository](https://github.com/Thunderklaud/thunder-client))**
   - Python Desktop application with Qt for Python
   - Part of a Study project focused on Project Management
-- **🛠Project Management Tool (🔗 [Live Demo](https://trello.jonathanschlitt.de/login))**
+- **Project Management Tool (🔗 [Live Demo](https://trello.jonathanschlitt.de/login))**
   - Fullstack Webapplication with React and Node.js
   - Part of a Study project focused on MySQL
 - **'Sinking Ships' GUI or Console game (🔗 [Sinking Ships](https://github.com/lorenzhohmann/sinking-ships-mvc))**
